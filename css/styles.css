@@ -223,6 +223,12 @@ footer {
 	transition: .5s ease all
 }
 
+.btn-rounded-white:visited {
+	color: #fff;
+	background: transparent;
+	text-decoration: none;
+}
+
 .btn-rounded-white:hover {
 	color: #3498db;
 	background: #fff;
