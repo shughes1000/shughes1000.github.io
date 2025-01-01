@@ -223,7 +223,9 @@ footer {
 	transition: .5s ease all
 }
 
-.btn-rounded-white:visited {
+.btn-rounded-white:visited,
+.btn-rounded-white:focus,
+.btn-rounded-white:active {
 	color: #fff;
 	background: transparent;
 	text-decoration: none;
