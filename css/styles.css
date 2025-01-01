@@ -509,10 +509,10 @@ footer {
 }
 
 .education-block span {
-	position: absolute;
+	/* position: absolute; */
 	color: #74808a;
-	/* float: right; */
-	margin-left: 245px;
+	float: right;
+	/* margin-left: 245px; */
 	text-align: right;
 }
 
